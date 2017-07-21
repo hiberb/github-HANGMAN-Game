@@ -1,2 +1,2 @@
 # github-HANGMAN-Game
-Processing HANGMAN Game
+Processing-HANGMAN Game
